@@ -1,6 +1,16 @@
-# 💫About Me :Hi 👋, I'm Ahmed Taha a passionate backend developer from Iraq
-#🔭 I’m currently working on SAP integration
-#🌱 I’m currently learning Node.js
+# 💫About Me :
+
+<h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
+<h3 align="center">A passionate backend developer from Iraq</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=it-ahmedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="it-ahmedtaha" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-ahmedtaha" alt="it-ahmedtaha" /></a> </p>
+
+- 🔭 I’m currently working on **SAP integration**
+
+- 🌱 I’m currently learning **Node.js**
+
 
 
 # 💻Tech Stack
