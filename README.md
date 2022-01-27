@@ -1,9 +1,7 @@
 # 💫About Me :
 
-<h1 align="center">Hi 👋, I'm Ahmed Taha</h1>
-<h3 align="center">A passionate backend developer from Iraq</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it-ahmedtaha&label=Profile%20views&color=0e75b6&style=flat" alt="it-ahmedtaha" /> </p>
+<h1 align="left">Hi 👋, I'm Ahmed Taha</h1>
+<h3 align="left">A passionate backend developer from Iraq</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-ahmedtaha" alt="it-ahmedtaha" /></a> </p>
 
