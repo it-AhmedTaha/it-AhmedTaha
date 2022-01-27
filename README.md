@@ -1,14 +1,9 @@
 # 💫About Me :
 
-<h1 align="left">Hi 👋, I'm Ahmed Taha</h1>
-<h3 align="left">A passionate backend developer from Iraq</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=it-ahmedtaha" alt="it-ahmedtaha" /></a> </p>
-
+<h6 align="left">Hi 👋, I'm Ahmed Taha</h6>
+<h6 align="left">A passionate backend developer from Iraq</h6>
 - 🔭 I’m currently working on **SAP integration**
-
 - 🌱 I’m currently learning **Node.js**
-
 
 
 # 💻Tech Stack
