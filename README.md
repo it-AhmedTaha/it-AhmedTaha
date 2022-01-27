@@ -1,7 +1,6 @@
-# 💫About Me :
-Hi 👋, I'm Ahmed Taha a passionate backend developer from Iraq
-🔭 I’m currently working on SAP integration
-🌱 I’m currently learning Node.js
+# 💫About Me :Hi 👋, I'm Ahmed Taha a passionate backend developer from Iraq
+#🔭 I’m currently working on SAP integration
+#🌱 I’m currently learning Node.js
 
 
 # 💻Tech Stack
